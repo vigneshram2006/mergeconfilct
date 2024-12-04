@@ -1,2 +1,3 @@
 test.nnn
-city no e
+city: bagalore
+
